@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Sakshi Mahajan
 -    Currently working at Education sector
-- 👀 I’m interested in Blockchain technology
+- 👀 I’m interested in Data Science Technology 
 - 🌱 I’m currently learning python,SQL and Blockchain technology
-- 📫 How to reach me sakshi.mahajan960@gmail.com
-- ⚡ Linkedin: www.linkedin.com/in/sakshimahajan-52368624b
+- 📫 How to reach me sakshiimahajan95@gmail.com
+- ⚡ Linkedin: www.linkedin.com/in/sakshimahajan9
+
+
 
 
 <!---
